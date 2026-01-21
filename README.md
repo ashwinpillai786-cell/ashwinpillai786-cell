@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Ashwin Pillai  
 
-<!--
-**ashwinpillai786-cell/ashwinpillai786-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst | Python | SQL | Power BI | Tableau | Excel  
 
-Here are some ideas to get you started:
+I am a data enthusiast with 3 years of experience in BPO operations and a strong foundation in analytics, visualization, and business intelligence. I enjoy transforming raw data into meaningful insights that support smarter business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+- Python, SQL  
+- Power BI, Tableau, Excel  
+- Pandas, NumPy  
+- GitHub, AWS, Streamlit  
+
+---
+
+## 📁 Projects
+
+- 🎬 TMDB Movies Data Analysis  
+- 🏏 IPL Cricket Data Analysis  
+- 📈 Sales Dashboard  
+- 🌐 Streamlit Data Web App  
+
+---
+
+## 📫 Contact
+
+📧 Email: ashwinpillai786@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/ashwin-pillai-64896b228  
