@@ -28,3 +28,5 @@ I am a data enthusiast with 3 years of experience in BPO operations and a strong
 
 📧 Email: ashwinpillai786@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/ashwin-pillai-64896b228  
+🌐 Portfolio: https://ashwinpillai.my.canva.site/
+
